@@ -18,7 +18,7 @@ Tauri (learning)
 
 ## Other
 ### Competitive Programming
-AtCoder: CleyL 1611(max 1613)
+![Badge](https://cp-logo.vercel.app/atcoder/CleyL)
 
 # Product
 
