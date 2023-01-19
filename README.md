@@ -1,23 +1,24 @@
 # Whoami
-CleyL (パブリックなので本名は伏せます)
+CleyL
 
-# Skill
-## Language
-C++ (in Competitive Programming)  
-Rust  
+# Skill  
+### Natural Language  
+Japanese (Native)  
+English (TOEIC: 530)  
+
+## Develop
+### Program Language
+C++ (for Competitive Programming)  
+Rust (newbie)  
 JavaScript  
 TypeScript  
+- React
+  - Next.js
 
 
-## Framework
-React  
-Vue (learning)  
-Electron  
 
-Tauri (learning)  
-
-## Other
-### Competitive Programming
+### Other
+#### Competitive Programming
 ![Badge](https://cp-logo.vercel.app/atcoder/CleyL)
 
 # Product
