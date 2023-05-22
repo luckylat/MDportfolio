@@ -12,20 +12,21 @@ CleyL
 日本語 (ネイティブ)  
 English (TOEIC: 530)  
 
-### Develop
-#### Program Language
-C++ (for Competitive Programming)  
-Rust (newbie)  
-JavaScript  
-TypeScript  
+### 開発スキル
+#### プログラミング言語
+**C++**  
+for Competitive Programming
+
+**Rust (newbie)**  
+- GTK-rs
+
+**JavaScript / TypeScript**  
 - React
   - Next.js
 
 
 
-#### Hobby
-##### Competitive Programming
-![Badge](https://cp-logo.vercel.app/atcoder/CleyL)
+
 
 ## Product
 
@@ -47,3 +48,6 @@ githubやhuggingfaceのようにリポジトリをアップロードして、そ
 将来的にはパッケージ型で配布して、各自で使えるようにしたいです。  
 -->
 
+## Hobby
+### Competitive Programming
+![Badge](https://cp-logo.vercel.app/atcoder/CleyL)
