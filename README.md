@@ -3,7 +3,8 @@ Lang: JP
 CleyL
 
 ## 展望
-- フロントエンドエンジニア
+- Webアプリケーションエンジニア
+正直なところ社会にどのような仕事があるのかを掴めていません。なので変わる可能性もあります。
 
 
 ## Skill  
@@ -22,7 +23,7 @@ TypeScript
 
 
 
-#### Other
+#### Hobby
 ##### Competitive Programming
 ![Badge](https://cp-logo.vercel.app/atcoder/CleyL)
 
