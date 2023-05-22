@@ -1,4 +1,3 @@
-Lang: JP
 ## Whoami
 CleyL
 
