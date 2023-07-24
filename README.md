@@ -10,7 +10,7 @@ CleyL
 ## Skill  
 ### 会話言語
 日本語 (ネイティブ)  
-English (TOEIC: 530)  
+English (TOEIC: 650)  
 
 ### 開発スキル
 #### プログラミング言語
