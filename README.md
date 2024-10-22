@@ -1,11 +1,10 @@
 ## Whoami
 CleyL
 
-## 展望
-- Webアプリケーションエンジニア  
+## Experience
 
-正直なところ社会にどのような仕事があるのかを掴めていません。なので変わる可能性もあります。
-
+### 2024
+セキュリティ・キャンプ 2024 全国大会参加(専門B)  
 
 ## Skill  
 ### 会話言語
@@ -23,9 +22,6 @@ for Competitive Programming
 **JavaScript / TypeScript**  
 - React
   - Next.js
-
-
-
 
 
 ## Product
