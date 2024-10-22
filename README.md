@@ -21,13 +21,15 @@ for Competitive Programming
 - GTK-rs
 
 **JavaScript / TypeScript**  
-- React
-  - Next.js
 
+** Go **
 
 ## Product
 
-### [CP-Helper](https://cp-helper.netlify.app/)
+### [CP-template](https://github.com/luckylat/cp-template)
+oj-bundleを利用してコンテストのファイルを配置するコマンドです
+
+### CP-Helper
 [Repository](https://github.com/luckylat/cp-helper-front)  
 対策は行っていますが、念の為DDoS対策で現在稼働停止中です。  
 AtCoder, Codeforces, yukicoderで今日新規でACを出しているかを確認できるサイトです。  
