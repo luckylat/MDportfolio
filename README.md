@@ -1,5 +1,5 @@
 ## Whoami
-CleyL
+CleyL (Aliased luckYrat or luckylat)
 
 ## Experience
 
@@ -14,17 +14,26 @@ ICPC Asia Yokohama Regional 参加 (Spinning-akabeko, グループ参加)
 English (TOEIC: 650)  
 
 ## できること
-### 競技プログラミングの問題作成/テスター
-#### yukicoder
+### 競技プログラミング
+[競技プログラミング系アカウント一覧](https://clist.by/coder/luckYrat/)
+
+問題作成/テスターは経験があります。
+
+#### 問題作成
+##### yukicoder
 [No.926](https://yukicoder.me/problems/no/926)  
-#### ACPC
+##### ACPC
 [No.3512](https://onlinejudge.u-aizu.ac.jp/challenges/sources/UOA/UAPC/3512?year=2021)  
-#### HUPC
+##### HUPC
 [No.3539](https://onlinejudge.u-aizu.ac.jp/challenges/sources/UOA/UAPC/3539?year=2023)  
 [No.3535](https://onlinejudge.u-aizu.ac.jp/challenges/sources/UOA/UAPC/3535?year=2023)  
-#### RUPC
+##### RUPC
 [No.3547](https://onlinejudge.u-aizu.ac.jp/challenges/sources/UOA/UAPC/3547)  
 
+### 技術記事
+[競技プログラミングやCTFの記事](https://scrapbox.io/luckyrat/Home)を書いています。
+
+また、それとは別に[一般の技術記事](https://scrapbox.io/luckYrat-develop/Home)を書いています。
 
 ## Product
 
