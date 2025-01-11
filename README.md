@@ -46,8 +46,3 @@ oj-bundleを利用してコンテストのファイルを配置するコマン�
 AtCoder, Codeforces, yukicoderで今日新規でACを出しているかを確認できるサイトです。  
 将来的にはどれだけストリーク(新規ACを行なっている日数)が繋がれているかなどを直感的に理解できる形にする予定です。  
 React + TypeScriptで作成しています。
-
-
-## Hobby
-### Competitive Programming
-![Badge](https://cp-logo.vercel.app/atcoder/CleyL)
